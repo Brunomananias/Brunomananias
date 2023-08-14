@@ -1,6 +1,6 @@
 ### Olá, Eu sou o Bruno Ananias 👋
-- 😄 Sou estudante de Analise e desenvolvimento de sistemas
-- 🌱 Tecnologias que estou estudando HTML, CSS, JavaScript, C#, VB.NET, API rest, Jquery, SQLserver
+- 😄 Sou graduado em Analise e desenvolvimento de sistemas
+- 🌱 Tecnologias que estou estudando HTML, CSS, JavaScript, NodeJs, C#, VB.NET, API rest, Jquery, SQLserver, MySQL
 - ⚡ Fun fact: Estudando muito para algum dia virar um full stack de sucesso
 
 <div align="center">
