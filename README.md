@@ -1,7 +1,8 @@
 ### Olá, Eu sou o Bruno Ananias 👋
-- 😄 Sou graduado em Analise e desenvolvimento de sistemas
-- 🌱 Tecnologias que estou estudando HTML, CSS, JavaScript, NodeJs, C#, VB.NET, API rest, Jquery, SQLserver, MySQL
-- ⚡ Fun fact: Estudando muito para algum dia virar um full stack de sucesso
+Profissional de TI com dois anos de experiência e atualmente graduado em análise e 
+desenvolvimento de sistemas. Especializado em .NET e programação Web. Atualmente 
+atuando como Programador Júnior na Contenco. Habilidades em programação, e solução de 
+problemas. Busco fornecer soluções eficientes e garantir a satisfação do cliente.
 
 <div align="center">
   <a href="https://github.com/Brunomananias">
