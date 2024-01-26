@@ -1,8 +1,9 @@
 ### Olá, Eu sou o Bruno Ananias 👋
-Profissional de TI com dois anos de experiência e atualmente graduado em análise e 
-desenvolvimento de sistemas. Especializado em .NET e programação Web. Atualmente 
-atuando como Programador Júnior na Contenco. Habilidades em programação, e solução de 
-problemas. Busco fornecer soluções eficientes e garantir a satisfação do cliente.
+- Profissional de TI com dois anos de experiência.
+- Graduado em análise e desenvolvimento de sistemas.
+- Especializado em .NET e programação Web.
+- Busco fornecer soluções eficientes e garantir a satisfação do cliente.
+- Um sonho: Ser um desenvolvedor fullstack de sucesso.
 
 <div align="center">
   <a href="https://github.com/Brunomananias">
