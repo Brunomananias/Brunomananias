@@ -1,5 +1,5 @@
 ### Olá, Eu sou o Bruno Ananias 👋
-- Profissional de TI com três anos de experiência.
+- Profissional de TI com cinco anos de experiência.
 - Graduado em análise e desenvolvimento de sistemas.
 - Especializado em .NET e programação Web.
 - Busco fornecer soluções eficientes e garantir a satisfação do cliente.
